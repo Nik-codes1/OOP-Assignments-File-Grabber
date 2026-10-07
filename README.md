@@ -16,9 +16,25 @@ A DIY section may also be provided at the end of an assignment. Complete the DIY
 
 ## Coding and Development
 
-All assignments and other coding work for this subject must be present in the repository created in Assignment Zero. The number, timing, and nature of the commits must demonstrate the gradual development of your work.
+All assignments and other coding work for this subject must be developed and maintained in the Git repository created in **Assignment Zero**.
 
-Work that appears suddenly in the repository without a credible development history, or work that is not present in the repository, will receive a grade of zero and may be flagged for possible plagiarism.
+You are expected to **commit your work early and often throughout the development process**. The number, timing, and content of your commits must provide a credible record showing that your work was developed gradually through meaningful stages.
+
+Your commit history should reflect the natural progression of your work, such as:
+
+- creating the initial structure of the assignment;
+- implementing functions, classes, or features in stages;
+- testing your code;
+- correcting errors and bugs;
+- improving, refining, and completing your solution.
+
+Do **not** complete most or all of the assignment outside the repository and then add the finished solution in one or two large commits. Similarly, creating many trivial or artificial commits only to make the work appear gradual does not satisfy this requirement. The actual changes made in each commit may be reviewed.
+
+Your Git repository and its commit history are part of the evidence used to evaluate your work.
+
+> **Important:** Work that is not present in the required repository, or work that appears suddenly without a credible and meaningful development history, may be **rejected or receive a grade of zero** and may also be **flagged for further review for possible plagiarism or other academic-integrity concerns**.
+
+Commit regularly as you work. Your repository should clearly demonstrate the development of your assignment from its early stages to the final submission.
 
 ## Understanding Academic Integrity Violations
 
